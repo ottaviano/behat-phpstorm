@@ -1,0 +1,13 @@
+{
+    "name": "ottaviano/behat-phpstorm",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dimitri Gritsajuk",
+            "email": "gritsajuk.dimitri@gmail.com"
+        }
+    ],
+    "require": {
+        "behat/behat": "^3.5"
+    }
+}
